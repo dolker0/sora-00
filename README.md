@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonam
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning java and css
+- 🌱 I’m currently learning java and javascript
 
 
 
